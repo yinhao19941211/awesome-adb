@@ -15,7 +15,7 @@ adb shell dumpsys activity | grep "mFocusedActivity"
 
 Windows:
 ```sh
-adb shell dumpsys activity  | findstr "mFocusedActicity"
+adb shell dumpsys activity  | findstr "mFocusedActivity"
 ```
 
 ### 获取当前Window
